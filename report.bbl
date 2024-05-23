@@ -20,10 +20,4 @@
 \bibitem{eWilliams1999}
 E.~Williams, \emph{Fourier Acoustics: Sound Radiation and Nearfield Acoustic Holography}.\hskip 1em plus 0.5em minus 0.4em\relax London, UK: Academic Press, 1999.
 
-\bibitem{aBee2001}
-A.~Bee, C.~Player, and X.~Lastname, ``A {Correct} {Citation},'' in \emph{Proc. of the 1st Int. Conf. (IC)}, London, UK, 2001, pp. 1119--1134.
-
-\bibitem{mSmith2001}
-M.~Smith, ``A {Good} {Journal} {Article},'' \emph{J. Acoustical Soc. Am.}, vol. 110, no.~3, pp. 1598--1608, March 2001.
-
 \end{thebibliography}

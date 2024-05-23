@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.12)  23 MAY 2024 15:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.12)  23 MAY 2024 20:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -676,27 +676,43 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count283
 \l__pdf_internal_box=\box53
-) (./report.aux)
+) (./report.aux
+
+LaTeX Warning: Label `ssec:subhead' multiply defined.
+
+
+LaTeX Warning: Label `ssec:subhead' multiply defined.
+
+
+LaTeX Warning: Label `ssec:subhead' multiply defined.
+
+
+LaTeX Warning: Label `ssec:subhead' multiply defined.
+
+
+LaTeX Warning: Label `ssec:subhead' multiply defined.
+
+)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count284
@@ -722,76 +738,77 @@ Package grfext Info: Graphics extension search list:
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 37.
+Package hyperref Info: Link coloring OFF on input line 39.
  (./report.out) (./report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 40.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 41.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Overfull \hbox (12.00002pt too wide) in paragraph at lines 40--40
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 41--41
  [][] 
  []
 
-<license-by-nc.pdf, id=60, 97.01155pt x 33.942pt>
-File: license-by-nc.pdf Graphic file (type pdf)
-<use license-by-nc.pdf>
-Package pdftex.def Info: license-by-nc.pdf  used on input line 40.
-(pdftex.def)             Requested size: 32.52756pt x 11.38092pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--61
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--61
-
+Overfull \hbox (3.43652pt too wide) in paragraph at lines 114--120
+\T1/ptm/m/n/10 It takes four pa-ram-e-ters: Xtr (train-ing data in-puts), Ytr (train-
  []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
 
- <./license-by-nc.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
+]
+Overfull \hbox (0.4869pt too wide) in paragraph at lines 128--134
+\T1/ptm/m/n/10 To eval-u-ate how good is the clas-si-fi-ca-tion func-tion es-ti-mated
+ []
+
+<./images/first_experiment.png, id=69, 403.9893pt x 314.3745pt>
+File: ./images/first_experiment.png Graphic file (type png)
+<use ./images/first_experiment.png>
+Package pdftex.def Info: ./images/first_experiment.png  used on input line 170.
+(pdftex.def)             Requested size: 227.62204pt x 177.12782pt.
+<./images/second_experiment.png, id=71, 403.9893pt x 314.3745pt>
+File: ./images/second_experiment.png Graphic file (type png)
+<use ./images/second_experiment.png>
+Package pdftex.def Info: ./images/second_experiment.png  used on input line 227.
+(pdftex.def)             Requested size: 227.62204pt x 177.12782pt.
+[2 <./images/first_experiment.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--243
 
  []
 
-
-LaTeX Warning: Reference `fig:results' on page 2 undefined on input line 162.
-
-(./report.bbl
-Underfull \hbox (badness 2689) in paragraph at lines 21--22
-[]\T1/ptm/m/n/9 E. Williams, \T1/ptm/m/it/9 Fourier Acous-tics: Sound Ra-di-a-tion and
- []
-
-) [2] (./report.aux)
+(./report.bbl) [3 <./images/second_experiment.png>] (./report.aux)
  ***********
 LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-05>
  ***********
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 17713856DD64598A630671B198843D7E;2024.
+(rerunfilecheck)             Checksum: 4EC4D6219992B23C46BEB8A3268AE861;2911.
  ) 
 Here is how much of TeX's memory you used:
- 9627 strings out of 477619
- 145959 string characters out of 5829986
- 1878759 words of memory out of 5000000
- 29966 multiletter control sequences out of 15000+600000
- 543237 words of font info for 72 fonts, out of 8000000 for 9000
+ 9615 strings out of 477619
+ 146153 string characters out of 5829986
+ 1876759 words of memory out of 5000000
+ 29960 multiletter control sequences out of 15000+600000
+ 534618 words of font info for 62 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 75i,16n,79p,685b,546s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on report.pdf (2 pages, 124578 bytes).
+ 75i,16n,79p,385b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on report.pdf (3 pages, 211321 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 118 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 125 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 22 named destinations out of 1000 (max. 500000)
+ 123 words of extra memory for PDF output out of 10000 (max. 10000000)
 
